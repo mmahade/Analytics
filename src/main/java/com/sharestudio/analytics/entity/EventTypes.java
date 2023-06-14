@@ -1,0 +1,22 @@
+package com.sharestudio.analytics.entity;
+
+public enum EventTypes {
+
+    DEVICE_INFO,
+    DOWNLOAD,
+    HOME,
+    INVITEE_REGISTRATION_SUCCESS,
+    LOGIN_SUCCESS,
+    REGISTRATION_SUCCESS,
+    RESOURCES,
+    SESSIONS,
+    VIDEO_WATCH_DURATION,
+    WATCH_LIVE,
+    RE_PLAYING,
+    VISIT_DURATION,
+    ONDEMAND,
+    AGENDA_SPEAKERS,
+    VIDEO_LIBRARY
+
+
+}
